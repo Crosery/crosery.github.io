@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bolg.luoxi.work/posts/26379349.html</loc>
+    
+    <lastmod>2025-01-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bolg.luoxi.work/posts/f56a941a.html</loc>
     
     <lastmod>2024-12-13</lastmod>
@@ -398,15 +407,6 @@
   </url>
   
   <url>
-    <loc>https://bolg.luoxi.work/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://bolg.luoxi.work/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -425,15 +425,6 @@
   </url>
   
   <url>
-    <loc>https://bolg.luoxi.work/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://bolg.luoxi.work/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -443,7 +434,16 @@
   </url>
   
   <url>
-    <loc>https://bolg.luoxi.work/social/fcircle/index.html</loc>
+    <loc>https://bolg.luoxi.work/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bolg.luoxi.work/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -470,6 +470,15 @@
   </url>
   
   <url>
+    <loc>https://bolg.luoxi.work/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bolg.luoxi.work/site/echarts/index.html</loc>
     
     <lastmod>2022-09-10</lastmod>
@@ -481,36 +490,50 @@
 
   <url>
     <loc>https://bolg.luoxi.work/</loc>
-    <lastmod>2025-01-30</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://bolg.luoxi.work/tags/C/</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bolg.luoxi.work/tags/C%E8%AF%AD%E8%A8%80/</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://bolg.luoxi.work/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-01-30</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bolg.luoxi.work/tags/%E4%BA%91%E5%B4%BD/</loc>
-    <lastmod>2025-01-30</lastmod>
+    <lastmod>2025-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bolg.luoxi.work/tags/C/</loc>
+    <lastmod>2025-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bolg.luoxi.work/tags/C%E8%AF%AD%E8%A8%80/</loc>
+    <lastmod>2025-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bolg.luoxi.work/tags/galgame%E6%B1%89%E5%8C%96/</loc>
+    <lastmod>2025-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bolg.luoxi.work/tags/%E9%80%86%E5%90%91/</loc>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -518,22 +541,22 @@
 
   
   <url>
+    <loc>https://bolg.luoxi.work/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2025-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://bolg.luoxi.work/categories/C/</loc>
-    <lastmod>2025-01-30</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bolg.luoxi.work/categories/C%E8%AF%AD%E8%A8%80/</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bolg.luoxi.work/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-01-30</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
