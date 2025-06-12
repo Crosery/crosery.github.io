@@ -1,0 +1,32 @@
+.moe-icp-simple {
+    display: inline-flex;
+    align-items: center;
+    background: #ffb6d5;
+    border-radius: 12px;
+    padding: 2px 14px 2px 6px;
+    font-family: 'ZCOOL KuaiLe','Comic Sans MS','微软雅黑',cursive,sans-serif;
+    font-size: 15px;
+    color: #fff;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+    transition: background 0.2s;
+    margin: 0 2px;
+  }
+  .moe-icp-simple:hover {
+    background: #ff69b4;
+  }
+  .moe-icp-icon {
+    height: 22px;
+    margin-right: 6px;
+    border-radius: 50%;
+    background: #fff;
+    border: none;
+    box-shadow: none;
+  }
+  .moe-icp-label {
+    display: inline-block;
+    vertical-align: middle;
+    color: #fff;
+    letter-spacing: 1px;
+  }
